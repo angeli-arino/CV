@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-21:25:56	37968/37968	---MCZ	200	added ('OK')	text/html	etag:W/%229450-57963f12e54cc%22	https://beshley.com/vcard/index-gradient.html	D:/Code/Proj/beshley.com/vcard/index-gradient.html	(from )
-21:25:57	25/25	---M--	200	added ('OK')	text/plain	etag:%22571b5397-19%22	https://beshley.com/robots.txt		(from )
-21:25:58	36989/36989	---MCZ	200	added ('OK')	text/css	etag:W/%22bee5a66d62a031345fd944787f05f538%22	https://use.fontawesome.com/releases/v5.0.9/css/all.css	D:/Code/Proj/use.fontawesome.com/releases/v5.0.9/css/all.css	(from https://beshley.com/vcard/index-gradient.html)
