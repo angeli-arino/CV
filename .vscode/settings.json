@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/64df0fcc-2cca-41d7-b910-cbebd5ea6d75/resourceGroups/Default/providers/Microsoft.Web/sites/angeli-arino",
+    "appService.deploySubpath": ""
+}
